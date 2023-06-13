@@ -6,7 +6,7 @@ Minhas principais skills: Python, SQL, Excel.
 
 Estudando em: 
 
-PUC MINAS- Tecnologia em Banco de dados (Eng data)
+PUC MINAS- Tecnologia em Banco de dados (Engenharia de dados)
 
 DSA - Formação Engenheiro de dados
 
