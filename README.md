@@ -28,11 +28,9 @@ Contato:
 
 
 ## Hard Skills:
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MaestroCod)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/MaestroCod)
 
-- Bancos de Dados Relacionais: MySQL
+
+- Bancos de Dados Relacionais: MySQL, PostgreSQL
 - Ferramentas de Dataviz: Power BI, Excel
-- Ferramentas de apoio: Excel, Git, Python para análise de dados
-- Estudos autônomos: AWS, PgAdmin4, Postgree, Git, Data Ware House, ETL processos e ferramentas.
-
+- Ferramentas de apoio: Excel, Python para análise de dados
+- Estudos autônomos: AWS, Postgree, Git, Data Ware House, Data Lake House, Nifi, Airflow, Segurança de Dados. 
