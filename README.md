@@ -1,6 +1,6 @@
 # Hi there I'm Rafael Amphilo👋
 
-Sou engenheiro de dados, por aqui vai achar códigos de automação, projetos pessoais, testes, processos de ETL. Fique a vontade pra melhorar no que for possivel. Este perfil ainda está em contrução profisional, Obrigado!. 
+Sou estudante de dados, por aqui vai achar códigos de automação, projetos pessoais, testes, processos de ETL. Fique a vontade pra melhorar no que for possivel. Este perfil ainda está em contrução profisional, Obrigado!. 
 
 Minhas principais skills: Python, SQL, Excel.
 
