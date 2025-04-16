@@ -1,18 +1,15 @@
 # Hi there I'm Rafael Amphilo👋
 
-Sou estudante de dados, por aqui vai achar códigos de automação, projetos pessoais, testes, processos de ETL. Fique a vontade pra melhorar no que for possivel. Este perfil ainda está em contrução profisional, Obrigado!. 
+Sou estudante de banco de dados, ciência e economia., por aqui vai achar códigos de automação, projetos pessoais, testes, processos de ETL. Fique a vontade pra melhorar no que for possivel. Este perfil ainda está em contrução profisional, Obrigado!. 
 
 Minhas principais skills: Python, SQL, Excel.
 
 Estudando em: 
 
-PUC MINAS- Tecnologia em Banco de dados (Engenharia de dados)
+PUC MINAS- Tecnologia em Banco de dados (Engenharia de dados) 3/5
 
-DSA - Formação Engenheiro de dados
+DSA - Formação Engenheiro de dados Concluído! 
 
-Udemy- Fernando Amaral (Formação Engenharia de Dados: Domine Big Data!)
-
-Mentoria de Engenharia de Dados - https://github.com/demetriusengdados#hi-there--im-demetrius-magela-da-mata
 
 Contato:
 
@@ -21,7 +18,7 @@ Contato:
 
 ## Eu sou Engenheiro de Dados.
 
-### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
+### Meu objetivo é ajudar empresas a resolver seus problemas com dados e otimizar processos. 
 
 
  
@@ -33,4 +30,4 @@ Contato:
 - Bancos de Dados Relacionais: MySQL, PostgreSQL
 - Ferramentas de Dataviz: Power BI, Excel
 - Ferramentas de apoio: Excel, Python para análise de dados
-- Estudos autônomos: AWS, Postgree, Git, Data Ware House, Data Lake House, Nifi, Airflow, Segurança de Dados. 
+- Estudos autônomos: AWS, Postgree, Git, Data Ware House, Data Lake House, Nifi, Airflow, Segurança de Dados, N8N. 
