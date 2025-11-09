@@ -40,7 +40,6 @@ Minha formação é meu pilar de sustentação, combinando a visão de negócio 
 
 ## 📂 Meus Principais Projetos
 
-*(Aqui você vai adicionar os links para os repositórios de cada projeto que você está documentando do curso de Power BI!)*
 
 * [**Projeto 1: Dashboard de Análise de Marketing (Power BI)**](link-para-o-repo-do-projeto-1)
     * Análise de performance de campanhas, perfil de cliente e ROI, utilizando DAX e Power Query para tratamento de outliers.
