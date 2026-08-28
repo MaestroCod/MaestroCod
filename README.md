@@ -28,8 +28,8 @@ Estou em constante evolução técnica, saindo do ambiente de testes local para 
 * **Métricas & KPIs:** Construção de indicadores operacionais, comerciais e de processos.
 
 ### ⚙️ Dados & Desenvolvimento
-* **Linguagens & Bancos:** SQL (PostgreSQL, MySQL), Python (análise e manipulação de dados), C#.
-* **Infraestrutura Básica:** Docker (containerização de ambientes), versão de código com Git/GitHub.
+* **Linguagens & Bancos:** SQL (MySQL), Python (análise e manipulação de dados), C#.
+* **Infraestrutura Básica:** Docker, Git/GitHub.
 
 ### ☁️ Em Evolução & Infraestrutura
 * **Cloud Infrastructure:** Estudos práticos em **AWS** e **Microsoft Azure**.
