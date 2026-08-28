@@ -1,57 +1,67 @@
-# Olá, eu sou Rafael Amphilo 👋
+# Olá, eu sou o Rafael Amphilo 👋
 
-### Engenheiro de Dados em formação, conectando processos corporativos com Business Intelligence e IA.
+### Resolver problemas reais de negócio através de Dados, Processos e Gestão.
 
-Sou um profissional em transição de carreira, trazendo uma bagagem sólida em **processos operacionais, qualidade (metrologia) e otimização** para o universo dos dados. 
+Atualmente atuo em **Melhoria Contínua na LDC (Louis Dreyfus Company)**, onde aplico a convergência entre eficiência operacional, análise de processos e tecnologia no setor do agronegócio. 
 
-Minha jornada não começou do zero; ela é uma **evolução**. Eu percebi que minha paixão em identificar problemas, analisar métricas e melhorar a eficiência no ambiente industrial é a base fundamental da Engenharia e Análise de Dados.
-
-Este GitHub é meu portfólio prático, onde aplico os fundamentos acadêmicos em projetos reais. Aqui você encontrará:
-* **Projetos de Business Intelligence (Power BI)** focados em encontrar insights para negócios (Vendas, RH, Logística).
-* **Pipelines de ETL** e processos de limpeza e transformação de dados.
-* Aplicações de **Análise de Dados com Python (Pandas)**.
-* Estudos e projetos pessoais em **SQL**, **IA** e **Data Warehousing**.
+Acredito que **ferramentas são meios, não fins**. Meu objetivo não é apenas escrever código ou construir dashboards, mas entender o problema operacional/estratégico, estruturar o fluxo de dados e entregar soluções que facilitem a tomada de decisão.
 
 ---
 
-## 🎓 Minha Formação (A Visão 360°)
+## 🧠 Minha Abordagem & Filosofia
 
-Minha formação é meu pilar de sustentação, combinando a visão de negócio com a tecnologia:
-
-* **Ciências Econômicas (UNIFAL):** Para entender o "porquê" do negócio.
-* **Tecnologia em Banco de Dados (PUC Minas):** Para entender o "como" da tecnologia.
-* **Engenheiro de Dados (Data Science Academy):** Para construir as pontes entre os dois.
-
----
-
-## 🚀 Meu Tech Stack (Hard Skills)
-
-* **Business Intelligence & Data Viz:**
-    * ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-    * ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-* **Banco de Dados & Linguagens:**
-    * ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) (MySQL, PostgreSQL)
-    * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (Pandas, NumPy)
-* **Engenharia de Dados & Cloud (Estudando):**
-    * Conceitos de ETL, Data Warehousing, MLOps
-    * ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+* **Foco em Valor de Negócio:** Unindo a visão analítica da Economia com a capacidade técnica da Tecnologia em Banco de Dados.
+* **Melhoria Contínua:** Identificação de gargalos, otimização de rotinas e garantia de qualidade da informação.
+* **Aprendizado Resiliente:** Em evolução constante em Engenharia de Dados, Cloud (AWS) e Inteligência Artificial — testando, validando localmente e escalando com responsabilidade.
+* **Postura Colaborativa:** Aberto a feedbacks, troca de conhecimento e novas formas de resolver desafios complexos.
 
 ---
 
-## 📂 Meus Principais Projetos
+## 🎓 Formação & Base Acadêmica
 
-
-* [**Projeto 1: Dashboard de Análise de Marketing (Power BI)**](link-para-o-repo-do-projeto-1)
-    * Análise de performance de campanhas, perfil de cliente e ROI, utilizando DAX e Power Query para tratamento de outliers.
-* [**Projeto 2: Dashboard Comercial (Power BI)**](link-para-o-repo-do-projeto-2)
-    * Análise de performance de vendedores, regiões e funil de vendas, com foco em KPIs e Narrativa Inteligente.
-* [**Projeto 3: Dashboard de Análise de RH (Power BI)**](link-para-o-repo-do-projeto-3)
-    * Criação de indicadores de turnover, satisfação e performance de funcionários.
-  
+* 📊 **Tecnologia em Banco de Dados** — PUC Minas *(4º / 5º Período)*
+* 📈 **Ciências Econômicas** — UNIFAL
+* 🚀 **Especialização em Engenharia de Dados** — Data Science Academy *(Em andamento)*
 
 ---
 
-## 📫 Entre em Contato
+## 🛠️ Stack & Capacidades Técnicas
 
-<a href="https://www.linkedin.com/in/rafael-amphilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:rafaeldiasnino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 📊 Business Intelligence & Análise
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+* **Modelagem de Dados & DAX:** Construção de visões estratégicas para suporte à decisão.
+* **Métricas de Processo:** KPIs operacionais, eficiência e otimização de fluxos.
+
+### ⚙️ Engenharia & Tratamento de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* **Linguagens & Libs:** Python (Pandas), SQL (PostgreSQL, MySQL).
+* **Estrutura & Armazenamento:** Conceitos de Data Lake, arquitetura de tabelas e formatos colunares (Parquet).
+* **Ambientes & Infra:** Containerização básica com Docker, redes e versionamento com Git/GitHub.
+
+### 🚀 Em Evolução & Estudos Atuais
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+* **Cloud Infrastructure (AWS):** Escalabilidade de pipelines de dados da máquina local para a nuvem.
+* **IA Aplicada:** Integração de modelos generativos e automação inteligente em processos de análise.
+
+---
+
+## 📌 Áreas de Atuação nos Repositórios
+
+Aqui no meu perfil você encontrará projetos práticos focados em:
+1. **Engenharia de Dados & ETL:** Scripts e pipelines para limpeza, transformação e estruturação de bases.
+2. **Business Intelligence & Dashboards:** Soluções visuais voltadas para áreas comerciais, operacionais e de gestão.
+3. **Modelagem & Bancos de Dados:** Scripts DDL/DML, otimização de queries e arquitetura de dados relacionais.
+
+---
+
+## 📫 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/rafael-amphilo/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:rafaeldiasnino@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
