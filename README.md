@@ -1,66 +1,49 @@
-# Olá, eu sou o Rafael Amphilo 👋
+# Rafael Amphilo
 
-### Resolver problemas reais de negócio através de Dados, Processos e Gestão.
-
-Atualmente atuo em **Melhoria Contínua na LDC (Louis Dreyfus Company)**, onde aplico a convergência entre eficiência operacional, análise de processos e tecnologia no setor do agronegócio. 
-
-Acredito que **ferramentas são meios, não fins**. Meu objetivo não é apenas escrever código ou construir dashboards, mas entender o problema operacional/estratégico, estruturar o fluxo de dados e entregar soluções que facilitem a tomada de decisão.
+**Melhoria Contínua (LDC) | Banco de Dados & Business Intelligence**  
+*Foco na solução de problemas de negócio, otimização de processos e estruturação de dados.*
 
 ---
 
-## 🧠 Minha Abordagem & Filosofia
+## 📌 Sobre Mim
 
-* **Foco em Valor de Negócio:** Unindo a visão analítica da Economia com a capacidade técnica da Tecnologia em Banco de Dados.
-* **Melhoria Contínua:** Identificação de gargalos, otimização de rotinas e garantia de qualidade da informação.
-* **Aprendizado Resiliente:** Em evolução constante em Engenharia de Dados, Cloud (AWS) e Inteligência Artificial — testando, validando localmente e escalando com responsabilidade.
-* **Postura Colaborativa:** Aberto a feedbacks, troca de conhecimento e novas formas de resolver desafios complexos.
+Atuo no setor do agronegócio (LDC) na área de Melhoria Contínua, conectando dores operacionais a soluções práticas de dados. Tenho uma postura pragmática: o objetivo principal é resolver o problema do negócio e entregar métricas confiáveis, utilizando a tecnologia como ferramenta de execução.
 
----
-
-## 🎓 Formação & Base Acadêmica
-
-* 📊 **Tecnologia em Banco de Dados** — PUC Minas *(4º / 5º Período)*
-* 📈 **Ciências Econômicas** — UNIFAL
-* 🚀 **Especialização em Engenharia de Dados** — Data Science Academy *(Em andamento)*
+Estou em constante evolução técnica, saindo do ambiente de testes local para arquiteturas em nuvem, garantindo entregas consistentes e sem desperdício de recursos.
 
 ---
 
-## 🛠️ Stack & Capacidades Técnicas
+## 🎓 Formação & Qualificação
+
+* 📊 **Tecnologia em Banco de Dados** — PUC Minas *(4º / 5º período — foco em BI, modelagem e arquitetura)*
+* 📜 **Engenharia de Dados** — Data Science Academy *(Concluído em 2025)*
+* 🏛️ **Ciências Econômicas** — UNIFAL *(Base de mercado, análise quantitativa e visão de negócios)*
+
+---
+
+## 🛠️ Conhecimentos Técnicos
 
 ### 📊 Business Intelligence & Análise
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-* **Modelagem de Dados & DAX:** Construção de visões estratégicas para suporte à decisão.
-* **Métricas de Processo:** KPIs operacionais, eficiência e otimização de fluxos.
+* **Power BI:** Modelagem de dados avançada, **DAX**, **Linguagem M** (ETL no Power Query).
+* **Métricas & KPIs:** Construção de indicadores operacionais, comerciais e de processos.
 
-### ⚙️ Engenharia & Tratamento de Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-* **Linguagens & Libs:** Python (Pandas), SQL (PostgreSQL, MySQL).
-* **Estrutura & Armazenamento:** Conceitos de Data Lake, arquitetura de tabelas e formatos colunares (Parquet).
-* **Ambientes & Infra:** Containerização básica com Docker, redes e versionamento com Git/GitHub.
+### ⚙️ Dados & Desenvolvimento
+* **Linguagens & Bancos:** SQL (PostgreSQL, MySQL), Python (análise e manipulação de dados), C#.
+* **Infraestrutura Básica:** Docker (containerização de ambientes), versão de código com Git/GitHub.
 
-### 🚀 Em Evolução & Estudos Atuais
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-* **Cloud Infrastructure (AWS):** Escalabilidade de pipelines de dados da máquina local para a nuvem.
-* **IA Aplicada:** Integração de modelos generativos e automação inteligente em processos de análise.
+### ☁️ Em Evolução & Infraestrutura
+* **Cloud Infrastructure:** Estudos práticos em **AWS** e **Microsoft Azure**.
+* **Fundamentos:** Arquitetura de Redes e escalabilidade de pipelines de dados.
 
 ---
 
-## 📌 Áreas de Atuação nos Repositórios
-
-Aqui no meu perfil você encontrará projetos práticos focados em:
-1. **Engenharia de Dados & ETL:** Scripts e pipelines para limpeza, transformação e estruturação de bases.
-2. **Business Intelligence & Dashboards:** Soluções visuais voltadas para áreas comerciais, operacionais e de gestão.
-3. **Modelagem & Bancos de Dados:** Scripts DDL/DML, otimização de queries e arquitetura de dados relacionais.
-
----
-
-## 📫 Vamos conversar?
+## 💬 Contato
 
 <a href="https://www.linkedin.com/in/rafael-amphilo/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/5535991266788" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 <a href="mailto:rafaeldiasnino@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
