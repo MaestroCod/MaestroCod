@@ -1,6 +1,6 @@
 # Rafael Amphilo
 
-**Melhoria Contínua (LDC) | Banco de Dados & Business Intelligence**  
+**Melhoria Contínua | Banco de Dados & Business Intelligence**  
 *Foco na solução de problemas de negócio, otimização de processos e estruturação de dados.*
 
 ---
